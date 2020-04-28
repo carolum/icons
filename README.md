@@ -1,2 +1,2 @@
-# icons
-Icons / GIMP files for Carolum
+# misc
+Miscellaneous files / ideas for Carolum
